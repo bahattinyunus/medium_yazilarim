@@ -2,9 +2,6 @@
 
 > Yapay zekânın kod yazdığı, sistemleri optimize ettiği ve rutin mühendisliği otomatiğe aldığı bir dünyada… insan eliyle değer üretmenin yeni adı ortaya çıkıyor: **Meta-Mühendislik.**
 >
-> Bu metin, Medium tarzında akıcı bir yazı-flow’u ile hazırlanmış bir README gibidir. Hem okuyana zevk verir hem de proje deposuna koyunca “bu repo boş değilmiş” hissi verir.
-
----
 
 ## 🚀 Meta-Mühendisin Doğuşu
 
