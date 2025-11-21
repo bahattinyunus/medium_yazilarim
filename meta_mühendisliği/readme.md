@@ -128,10 +128,3 @@ Dünyanın nereye gittiğini önceden hisseden, takımı geleceğe hazırlayan, 
 
 Bu dosya Medium tadında yazıldı çünkü teknik bir yol haritasının bile ilham verici bir anlatı hak ettiğine inanıyoruz.
 
-Bu belgeyi:
-
-* GitHub reposuna koyabilirsin,
-* Medium’da makaleye çevirebilirsin,
-* CV’nin üstüne konsept açıklaması olarak ekleyebilirsin.
-
-Eğer istersen bunu daha epik, daha teknik, daha kurumsal veya daha mizahi bir versiyona dönüştürebilirim. Sadece söyle.
