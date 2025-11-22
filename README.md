@@ -51,6 +51,36 @@ Girişimcilik deneyimleri, startup kurma süreçleri ve teknoloji ekosistemi.
 - **Funding strategies** ve investor relations
 - **Technical leadership** ve team scaling challenges
 
+### 🔐 Cybersecurity for Developers
+Siber güvenlik best practices, ethical hacking ve güvenli kod yazma stratejileri.
+- **Secure coding fundamentals** ve OWASP Top 10 protection
+- **DevSecOps integration** ve automated security testing
+- **API security**, **cloud security** ve incident response
+
+### 📱 Personal Branding & Content Creation
+Developer'lar için personal branding, content strategy ve online presence building.
+- **Content creation frameworks** ve platform-specific strategies
+- **Community building** ve networking techniques
+- **Monetization strategies** ve career growth through visibility
+
+### 💰 Financial Literacy for Tech Workers
+Tech worker'lar için finansal planning, investment strategies ve wealth building.
+- **Salary optimization** ve stock options management
+- **Cryptocurrency & DeFi** investment approaches
+- **FIRE movement** strategies ve early retirement planning
+
+### 🧠 Mental Health & Developer Wellness
+Developer mental health, burnout prevention ve sustainable career building.
+- **Work-life balance optimization** ve stress management
+- **Physical health** considerations for sedentary lifestyle
+- **Career anxiety management** ve growth mindset development
+
+### 🌍 Open Source Contribution Guide
+Açık kaynak katkı süreçleri, community building ve OSS career development.
+- **Contribution workflows** ve GitHub collaboration
+- **Maintainer perspectives** ve project governance
+- **Open source career building** ve monetization strategies
+
 ### 🛠️ Araçlar
 Developer productivity için pratik utilities ve automation scriptleri.
 - **Multi-language**: Bash, Python, Node.js, Go
