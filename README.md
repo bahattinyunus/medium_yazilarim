@@ -81,6 +81,24 @@ Açık kaynak katkı süreçleri, topluluk oluşturma ve açık kaynak kariyer g
 - **Bakımcı bakış açıları** ve proje yönetişimi
 - **Açık kaynak kariyer oluşturma** ve gelir elde etme stratejileri
 
+### 🤖💰 Yapay Zeka ile İş Yaratma
+AI teknolojileri ile yeni iş modelleri geliştirme ve gelir elde etme stratejileri.
+- **AI iş modelleri** ve ChatGPT ile para kazanma
+- **No-code AI girişimcilik** ve otomasyon servisleri
+- **İçerik pazarlama** ve AI SaaS ürün geliştirme
+
+### ⛓️ Web3 Blockchain Geliştirici Rehberi
+Web3 teknolojileri, blockchain geliştirme ve merkeziyetsiz uygulama oluşturma.
+- **Smart contract geliştirme** ve Solidity programlama
+- **DeFi protokolleri** ve NFT marketplace oluşturma
+- **Layer 2 çözümleri** ve cross-chain development
+
+### 🌍 Dijital Nomadlık Coğrafi Arbitraj
+Location independent çalışma ve coğrafi arbitraj stratejileri.
+- **Maliyet optimizasyonu** ve yaşam kalitesi dengeleme
+- **Vize stratejileri** ve yasal residence planlama
+- **Remote work** ve passive income stream kurma
+
 ### 🛠️ Araçlar
 Geliştirici verimliliği için pratik yardımcı programlar ve otomasyon betikleri.
 - **Çok dilli**: Bash, Python, Node.js, Go
