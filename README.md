@@ -1,107 +1,107 @@
 # 📝 Medium Yazıları
 
-Bu repository, Medium platformunda paylaştığım yazı ve makalelerin taslak versiyonlarını, notlarını ve içerik planlarını içeren kişisel bir arşivdir.
+Bu depo, Medium platformunda paylaştığım yazı ve makalelerin taslak sürümlerini, notlarını ve içerik planlarını içeren kişisel bir arşivdir.
 
 ## 📁 İçerik Yapısı
 
 ### 🚀 Meslek Devrimi
 Teknoloji sektöründe kariyer, yazılım geliştirme süreci ve profesyonel gelişim üzerine yazılar.
 - **11 bölüm** halinde seri yazı
-- **Kod örnekleri**: Python (Skill Tracker), JavaScript (Portfolio Generator), Go (Job Analyzer)
+- **Kod örnekleri**: Python (Beceri Takipçisi), JavaScript (Portfolyo Oluşturucu), Go (İş Analiz Aracı)
 
 ### 🏗️ Meta Mühendisliği  
 Yazılım mühendisliği metodolojileri, süreç optimizasyonu ve teknik liderlik konuları.
-- **AI-first approach** konseptleri
-- **System thinking** yaklaşımları
-- **Kod örnekleri**: Meta-level development patterns, automation tools
+- **Yapay zeka öncelikli yaklaşım** konseptleri
+- **Sistem düşüncesi** yaklaşımları
+- **Kod örnekleri**: Meta-seviye geliştirme kalıpları, otomasyon araçları
 
 ### 🏃‍♂️ Spora Başlama Rehberi
 Fitness, spor ve sağlıklı yaşam üzerine kişisel deneyimler ve rehberler.
 
 ### 🎓 Üniversitelerin Vaziyeti
-Eğitim sistemi, akademic hayat ve üniversite deneyimleri üzerine değerlendirmeler.
+Eğitim sistemi, akademik hayat ve üniversite deneyimleri üzerine değerlendirmeler.
 
 ### 🤖 Yapay Zeka Çağında Yazılım
-AI tools, ChatGPT, GitHub Copilot ile modern yazılım geliştirme yaklaşımları.
-- **AI-powered development** workflows ve best practices
-- **No-code/Low-code** platform'lar ile rapid prototyping
-- **Prompt engineering** teknikleri ve kod generation
+Yapay zeka araçları, ChatGPT, GitHub Copilot ile modern yazılım geliştirme yaklaşımları.
+- **Yapay zeka destekli geliştirme** iş akışları ve en iyi uygulamalar
+- **Kod-yazmadan/az-kodla** platformlar ile hızlı prototipleme
+- **İstem mühendisliği** teknikleri ve kod üretimi
 
-### 💼 Freelance Developer Rehberi
+### 💼 Serbest Geliştirici Rehberi
 Serbest yazılım geliştirici olarak başarılı kariyer kurma stratejileri.
-- **Client acquisition** ve pricing strategies
-- **Project management** ve time tracking
-- **Business operations** ve legal considerations
+- **Müşteri bulma** ve fiyatlandırma stratejileri
+- **Proje yönetimi** ve zaman takibi
+- **İş operasyonları** ve yasal değerlendirmeler
 
 ### 🚀 Teknoloji Trendleri 2024
-Yılın en önemli teknoloji trendleri, market analizleri ve gelecek öngörüleri.
-- **AI Revolution**, **Web3 Evolution**, **Quantum Computing**
-- **Extended Reality (XR)** ve **Sustainable Technology**
-- Investment opportunities ve market predictions
+Yılın en önemli teknoloji trendleri, pazar analizleri ve gelecek öngörüleri.
+- **Yapay Zeka Devrimi**, **Web3 Evrimi**, **Kuantum Hesaplama**
+- **Genişletilmiş Gerçeklik (XR)** ve **Sürdürülebilir Teknoloji**
+- Yatırım fırsatları ve pazar tahminleri
 
-### 🏠 Remote Çalışma Kültürü
-Uzaktan çalışma deneyimleri, best practices ve team collaboration stratejileri.
-- **Home office setup** ve productivity optimization
-- **Asynchronous communication** ve virtual team building
-- **Work-life balance** ve mental health considerations
+### 🏠 Uzaktan Çalışma Kültürü
+Uzaktan çalışma deneyimleri, en iyi uygulamalar ve takım işbirliği stratejileri.
+- **Ev ofisi kurulumu** ve verimlilik optimizasyonu
+- **Eşzamansız iletişim** ve sanal takım oluşturma
+- **İş-yaşam dengesi** ve zihinsel sağlık değerlendirmeleri
 
-### 🚀 Startup Ecosystem
-Girişimcilik deneyimleri, startup kurma süreçleri ve teknoloji ekosistemi.
-- **MVP development** ve product-market fit discovery
-- **Funding strategies** ve investor relations
-- **Technical leadership** ve team scaling challenges
+### 🚀 Girişim Ekosistemi
+Girişimcilik deneyimleri, girişim kurma süreçleri ve teknoloji ekosistemi.
+- **MVP geliştirme** ve ürün-pazar uyumu keşfi
+- **Finansman stratejileri** ve yatırımcı ilişkileri
+- **Teknik liderlik** ve takım ölçeklendirme zorlukları
 
-### 🔐 Cybersecurity for Developers
-Siber güvenlik best practices, ethical hacking ve güvenli kod yazma stratejileri.
-- **Secure coding fundamentals** ve OWASP Top 10 protection
-- **DevSecOps integration** ve automated security testing
-- **API security**, **cloud security** ve incident response
+### 🔐 Siber Güvenlik Rehberi
+Siber güvenlik en iyi uygulamaları, etik saldırı ve güvenli kod yazma stratejileri.
+- **Güvenli kodlama temelleri** ve OWASP İlk 10 korunması
+- **DevSecOps entegrasyonu** ve otomatik güvenlik testleri
+- **API güvenliği**, **bulut güvenliği** ve olay müdahalesi
 
-### 📱 Personal Branding & Content Creation
-Developer'lar için personal branding, content strategy ve online presence building.
-- **Content creation frameworks** ve platform-specific strategies
-- **Community building** ve networking techniques
-- **Monetization strategies** ve career growth through visibility
+### 📱 Kişisel Marka İçerik Üretimi
+Geliştiriciler için kişisel markalama, içerik stratejisi ve çevrimiçi varlık oluşturma.
+- **İçerik oluşturma çerçeveleri** ve platforma özgü stratejiler
+- **Topluluk oluşturma** ve ağ kurma teknikleri
+- **Gelir elde etme stratejileri** ve görünürlük yoluyla kariyer büyümesi
 
-### 💰 Financial Literacy for Tech Workers
-Tech worker'lar için finansal planning, investment strategies ve wealth building.
-- **Salary optimization** ve stock options management
-- **Cryptocurrency & DeFi** investment approaches
-- **FIRE movement** strategies ve early retirement planning
+### 💰 Teknoloji Çalışanları Finans Rehberi
+Teknoloji çalışanları için finansal planlama, yatırım stratejileri ve servet oluşturma.
+- **Maaş optimizasyonu** ve hisse senedi opsiyonu yönetimi
+- **Kripto para ve DeFi** yatırım yaklaşımları
+- **FIRE hareketi** stratejileri ve erken emeklilik planlaması
 
-### 🧠 Mental Health & Developer Wellness
-Developer mental health, burnout prevention ve sustainable career building.
-- **Work-life balance optimization** ve stress management
-- **Physical health** considerations for sedentary lifestyle
-- **Career anxiety management** ve growth mindset development
+### 🧠 Zihinsel Sağlık Geliştirici Refahı
+Geliştirici zihinsel sağlığı, tükenmişlik önleme ve sürdürülebilir kariyer oluşturma.
+- **İş-yaşam dengesi optimizasyonu** ve stres yönetimi
+- **Fiziksel sağlık** değerlendirmeleri hareketsiz yaşam tarzı için
+- **Kariyer kaygısı yönetimi** ve büyüme zihniyeti geliştirme
 
-### 🌍 Open Source Contribution Guide
-Açık kaynak katkı süreçleri, community building ve OSS career development.
-- **Contribution workflows** ve GitHub collaboration
-- **Maintainer perspectives** ve project governance
-- **Open source career building** ve monetization strategies
+### 🌍 Açık Kaynak Katkı Rehberi
+Açık kaynak katkı süreçleri, topluluk oluşturma ve açık kaynak kariyer geliştirme.
+- **Katkı iş akışları** ve GitHub işbirliği
+- **Bakımcı bakış açıları** ve proje yönetişimi
+- **Açık kaynak kariyer oluşturma** ve gelir elde etme stratejileri
 
 ### 🛠️ Araçlar
-Developer productivity için pratik utilities ve automation scriptleri.
-- **Multi-language**: Bash, Python, Node.js, Go
-- **Git helpers**, **API testers**, **Code formatters**
+Geliştirici verimliliği için pratik yardımcı programlar ve otomasyon betikleri.
+- **Çok dilli**: Bash, Python, Node.js, Go
+- **Git yardımcıları**, **API test edici**, **Kod biçimlendiriciler**
 
 ## 💻 Kod Örnekleri
 
 Her konu başlığı altında pratik kod örnekleri bulabilirsiniz:
 
-- **Eğitimsel açıklamalar** ile step-by-step öğrenme
-- **Multi-language desteği** (Python, JavaScript, Go, Bash)  
-- **Real-world use cases** ve production-ready kalite
-- **Comprehensive documentation** her örnek için
+- **Eğitici açıklamalar** ile adım adım öğrenme
+- **Çok dilli destek** (Python, JavaScript, Go, Bash)  
+- **Gerçek dünya kullanım durumları** ve üretim kalitesi
+- **Kapsamlı dokümantasyon** her örnek için
 
-## 📖 Medium Profili
+## 📖 Medium Profilim
 
 Bu yazıların yayımlanmış hallerine Medium profilimden ulaşabilirsiniz.
 
 ## 🤝 Katkı
 
-Bu repository kişisel yazı arşivi amacıyla oluşturulmuştur. Önerileriniz için issue açabilir veya doğrudan iletişime geçebilirsiniz.
+Bu depo kişisel yazı arşivi amacıyla oluşturulmuştur. Önerileriniz için sorun açabilir veya doğrudan iletişime geçebilirsiniz.
 
 ## 📄 Lisans
 
