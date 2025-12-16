@@ -1,126 +1,97 @@
-# 📝 Medium Yazıları
+<div align="center">
+  <img src="assets/repo-banner.png" alt="Medium Yazılarım Banner" width="100%">
+  
+  # Medium Yazıları & İçerik Arşivi
+  
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![Yazı Sayısı](https://img.shields.io/badge/Makale-20+-blue)](https://medium.com/@bahattinyunus)
+  [![Takip Et](https://img.shields.io/badge/Medium-Takip%20Et-black?logo=medium)](https://medium.com/@bahattinyunus)
+  [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-Bu depo, Medium platformunda paylaştığım yazı ve makalelerin taslak sürümlerini, notlarını ve içerik planlarını içeren kişisel bir arşivdir.
+  <p align="center">
+    <strong>Teknoloji, Kariyer Gelişimi ve Geleceğin Dünyası üzerine küratörlü içerikler.</strong>
+    <br />
+    <a href="#-öne-çıkanlar">Öne Çıkanlar</a> •
+    <a href="#-teknoloji--yazılım">Teknoloji</a> •
+    <a href="#-kariyer--gelişim">Kariyer</a> •
+    <a href="#-yaşam--toplum">Yaşam</a> •
+    <a href="#-katkı">Katkı</a>
+  </p>
+</div>
 
-## 📁 İçerik Yapısı
+---
 
-### 🚀 Meslek Devrimi
-Teknoloji sektöründe kariyer, yazılım geliştirme süreci ve profesyonel gelişim üzerine yazılar.
-- **11 bölüm** halinde seri yazı
-- **Kod örnekleri**: Python (Beceri Takipçisi), JavaScript (Portfolyo Oluşturucu), Go (İş Analiz Aracı)
+## 🌟 Hakkında
 
-### 🏗️ Meta Mühendisliği  
-Yazılım mühendisliği metodolojileri, süreç optimizasyonu ve teknik liderlik konuları.
-- **Yapay zeka öncelikli yaklaşım** konseptleri
-- **Sistem düşüncesi** yaklaşımları
-- **Kod örnekleri**: Meta-seviye geliştirme kalıpları, otomasyon araçları
+Bu repo, sadece bir yazı arşivi değil; **yapay zeka**, **yazılım mühendisliği**, **kariyer inşası** ve **dijital yaşam** üzerine derinlemesine analizlerin, kod örneklerinin ve stratejik rehberlerin bulunduğu dinamik bir kütüphanedir. 
 
-### 🏃‍♂️ Spora Başlama Rehberi
-Fitness, spor ve sağlıklı yaşam üzerine kişisel deneyimler ve rehberler.
+Burada bulacağınız her içerik, teorik bilgiden ziyade **sahadan deneyimler** ve uygulanabilir **stratejiler** üzerine kuruludur.
 
-### 🎓 Üniversitelerin Vaziyeti
-Eğitim sistemi, akademik hayat ve üniversite deneyimleri üzerine değerlendirmeler.
+## 🔥 Öne Çıkanlar
 
-### 🤖 Yapay Zeka Çağında Yazılım
-Yapay zeka araçları, ChatGPT, GitHub Copilot ile modern yazılım geliştirme yaklaşımları.
-- **Yapay zeka destekli geliştirme** iş akışları ve en iyi uygulamalar
-- **Kod-yazmadan/az-kodla** platformlar ile hızlı prototipleme
-- **İstem mühendisliği** teknikleri ve kod üretimi
+| Kategori | Başlık | Açıklama |
+|----------|--------|----------|
+| 🧠 **Psikoloji** | [Hikaye Anlatıcılığı Şifadır](hikaye_anlaticiligi/hikaye-anlaticiligi-sifadir.md) | Kelimelerin nörobilimsel iyileştirici gücü üzerine bir inceleme. |
+| 🚀 **Kariyer** | Meslek Devrimi | Teknoloji çağında kariyerinizi yeniden tasarlamanın yolları. |
+| 🤖 **Yapay Zeka** | Yapay Zeka Çağında Yazılım | AI araçlarıyla yazılım geliştirme süreçlerini optimize etmek. |
+| 💰 **Finans** | Teknoloji Çalışanları Finans Rehberi | Yazılımcılar için finansal özgürlük stratejileri. |
 
-### 💼 Serbest Geliştirici Rehberi
-Serbest yazılım geliştirici olarak başarılı kariyer kurma stratejileri.
-- **Müşteri bulma** ve fiyatlandırma stratejileri
-- **Proje yönetimi** ve zaman takibi
-- **İş operasyonları** ve yasal değerlendirmeler
+---
 
-### 🚀 Teknoloji Trendleri 2024
-Yılın en önemli teknoloji trendleri, pazar analizleri ve gelecek öngörüleri.
-- **Yapay Zeka Devrimi**, **Web3 Evrimi**, **Kuantum Hesaplama**
-- **Genişletilmiş Gerçeklik (XR)** ve **Sürdürülebilir Teknoloji**
-- Yatırım fırsatları ve pazar tahminleri
+## 📂 İçerik Kütüphanesi
 
-### 🏠 Uzaktan Çalışma Kültürü
-Uzaktan çalışma deneyimleri, en iyi uygulamalar ve takım işbirliği stratejileri.
-- **Ev ofisi kurulumu** ve verimlilik optimizasyonu
-- **Eşzamansız iletişim** ve sanal takım oluşturma
-- **İş-yaşam dengesi** ve zihinsel sağlık değerlendirmeleri
+### 💻 Teknoloji & Yazılım
+Modern yazılım dünyasının yapı taşları ve en iyi uygulamaları.
 
-### 🚀 Girişim Ekosistemi
-Girişimcilik deneyimleri, girişim kurma süreçleri ve teknoloji ekosistemi.
-- **MVP geliştirme** ve ürün-pazar uyumu keşfi
-- **Finansman stratejileri** ve yatırımcı ilişkileri
-- **Teknik liderlik** ve takım ölçeklendirme zorlukları
+- **[Yapay Zeka Çağında Yazılım](yapay_zeka_caginda_yazilim/)**: Copilot, ChatGPT ve yeni nesil geliştirme.
+- **[Meta Mühendisliği](meta_mühendisliği/)**: Sistemi bir bütün olarak gören mühendislik yaklaşımı.
+- **[Web3 & Blockchain](web3_blockchain_gelistirici_rehberi/)**: Merkeziyetsiz geleceğe geliştirici bakışı.
+- **[Siber Güvenlik Rehberi](siber_guvenlik_rehberi/)**: Güvenli kodlama ve sistem koruma pratikleri.
+- **[Araçlar](araçlar/)**: Geliştirici verimliliğini artıran betikler ve konfigürasyonlar.
 
-### 🔐 Siber Güvenlik Rehberi
-Siber güvenlik en iyi uygulamaları, etik saldırı ve güvenli kod yazma stratejileri.
-- **Güvenli kodlama temelleri** ve OWASP İlk 10 korunması
-- **DevSecOps entegrasyonu** ve otomatik güvenlik testleri
-- **API güvenliği**, **bulut güvenliği** ve olay müdahalesi
+### 🚀 Kariyer & Gelişim
+Profesyonel yaşamda bir adım öne geçmek isteyenler için stratejiler.
 
-### 📱 Kişisel Marka İçerik Üretimi
-Geliştiriciler için kişisel markalama, içerik stratejisi ve çevrimiçi varlık oluşturma.
-- **İçerik oluşturma çerçeveleri** ve platforma özgü stratejiler
-- **Topluluk oluşturma** ve ağ kurma teknikleri
-- **Gelir elde etme stratejileri** ve görünürlük yoluyla kariyer büyümesi
+- **[Meslek Devrimi](meslek_devrimi/)**: Kariyer yolculuğunuzu bir ürün gibi yönetin.
+- **[Freelance Developer Rehberi](freelance_developer_rehberi/)**: Özgürlüğe giden yolda müşteri ve proje yönetimi.
+- **[Dijital Nomadlık & Coğrafi Arbitraj](dijital_nomadlik_cografi_arbitraj/)**: Dünyayı ofisiniz yapın.
+- **[Açık Kaynak Katkı Rehberi](acik_kaynak_katki_rehberi/)**: Global projelere katkı vererek büyüyün.
+- **[Kişisel Marka & İçerik](kisisel_marka_icerik_uretimi/)**: Görünürlüğünüzü ve etkinizi artırın.
 
-### 💰 Teknoloji Çalışanları Finans Rehberi
-Teknoloji çalışanları için finansal planlama, yatırım stratejileri ve servet oluşturma.
-- **Maaş optimizasyonu** ve hisse senedi opsiyonu yönetimi
-- **Kripto para ve DeFi** yatırım yaklaşımları
-- **FIRE hareketi** stratejileri ve erken emeklilik planlaması
+### 🌱 Yaşam & Toplum
+Teknolojinin ötesinde, insan olmaya ve topluma dair notlar.
 
-### 🧠 Zihinsel Sağlık Geliştirici Refahı
-Geliştirici zihinsel sağlığı, tükenmişlik önleme ve sürdürülebilir kariyer oluşturma.
-- **İş-yaşam dengesi optimizasyonu** ve stres yönetimi
-- **Fiziksel sağlık** değerlendirmeleri hareketsiz yaşam tarzı için
-- **Kariyer kaygısı yönetimi** ve büyüme zihniyeti geliştirme
+- **[Üniversitelerin Vaziyeti](ünilerin_vaziyeti/)**: Akademik sistem üzerine eleştirel bakış.
+- **[Zihinsel Sağlık & Refah](zihinsel_saglik_gelistirici_refahı/)**: Tükenmişlikten korunma ve denge.
+- **[Uzaktan Çalışma Kültürü](remote_calisma_kulturu/)**: Evden çalışırken verimli ve mutlu kalmak.
+- **[Spora Başlama Rehberi](spora_başlama_rehberi/)**: Aktif bir yaşam için ilk adımlar.
+- **[Girişim Ekosistemi](startup_ecosystem/)**: Fikirden ürüne giden yolculuk.
 
-### 🌍 Açık Kaynak Katkı Rehberi
-Açık kaynak katkı süreçleri, topluluk oluşturma ve açık kaynak kariyer geliştirme.
-- **Katkı iş akışları** ve GitHub işbirliği
-- **Bakımcı bakış açıları** ve proje yönetişimi
-- **Açık kaynak kariyer oluşturma** ve gelir elde etme stratejileri
+---
 
-### 🤖💰 Yapay Zeka ile İş Yaratma
-AI teknolojileri ile yeni iş modelleri geliştirme ve gelir elde etme stratejileri.
-- **AI iş modelleri** ve ChatGPT ile para kazanma
-- **No-code AI girişimcilik** ve otomasyon servisleri
-- **İçerik pazarlama** ve AI SaaS ürün geliştirme
+## 🛠️ Kod Örnekleri
 
-### ⛓️ Web3 Blockchain Geliştirici Rehberi
-Web3 teknolojileri, blockchain geliştirme ve merkeziyetsiz uygulama oluşturma.
-- **Smart contract geliştirme** ve Solidity programlama
-- **DeFi protokolleri** ve NFT marketplace oluşturma
-- **Layer 2 çözümleri** ve cross-chain development
+Yazılarımda bahsettiğim konseptleri somutlaştıran kod parçacıklarına repo içinde ulaşabilirsiniz.
 
-### 🌍 Dijital Nomadlık Coğrafi Arbitraj
-Location independent çalışma ve coğrafi arbitraj stratejileri.
-- **Maliyet optimizasyonu** ve yaşam kalitesi dengeleme
-- **Vize stratejileri** ve yasal residence planlama
-- **Remote work** ve passive income stream kurma
+*   🐍 **Python**: Veri analizi ve otomasyon.
+*   ⚡ **Go**: Performanslı sistem araçları.
+*   🌐 **JavaScript/TypeScript**: Modern web uygulamaları.
+*   🐚 **Bash**: Sistem yönetimi ve scriptler.
 
-### 🛠️ Araçlar
-Geliştirici verimliliği için pratik yardımcı programlar ve otomasyon betikleri.
-- **Çok dilli**: Bash, Python, Node.js, Go
-- **Git yardımcıları**, **API test edici**, **Kod biçimlendiriciler**
+## 🤝 Katkıda Bulunun
 
-## 💻 Kod Örnekleri
+Bu repo topluluk katkılarına açıktır. Bir düzeltme öneriniz veya eklemek istediğiniz bir kaynak mı var?
+Lütfen [CONTRIBUTING.md](CONTRIBUTING.md) dosyasını inceleyin ve bir **Pull Request** gönderin!
 
-Her konu başlığı altında pratik kod örnekleri bulabilirsiniz:
+## 📜 Lisans
 
-- **Eğitici açıklamalar** ile adım adım öğrenme
-- **Çok dilli destek** (Python, JavaScript, Go, Bash)  
-- **Gerçek dünya kullanım durumları** ve üretim kalitesi
-- **Kapsamlı dokümantasyon** her örnek için
+Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır. İçerikler kaynak gösterilerek paylaşılabilir.
 
-## 📖 Medium Profilim
+---
 
-Bu yazıların yayımlanmış hallerine Medium profilimden ulaşabilirsiniz.
-
-## 🤝 Katkı
-
-Bu depo kişisel yazı arşivi amacıyla oluşturulmuştur. Önerileriniz için sorun açabilir veya doğrudan iletişime geçebilirsiniz.
-
-## 📄 Lisans
-
-Bu içerikler kişisel deneyimler ve görüşler içermektedir. Kaynak göstermek suretiyle kullanılabilir.
+<div align="center">
+  <p><i>Bahattin Yunus tarafından ❤️ ile hazırlanmıştır.</i></p>
+  <a href="https://www.linkedin.com/in/bahattinyunus/">LinkedIn</a> •
+  <a href="https://medium.com/@bahattinyunus">Medium</a> •
+  <a href="https://github.com/bahattinyunus">GitHub</a>
+</div>
